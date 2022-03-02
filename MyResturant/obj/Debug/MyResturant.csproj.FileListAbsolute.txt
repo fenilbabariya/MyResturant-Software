@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\MyResturant\MyResturant\bin\Debug\MyResturant.exe.config
+C:\Users\hp\source\repos\MyResturant\MyResturant\bin\Debug\MyResturant.exe
+C:\Users\hp\source\repos\MyResturant\MyResturant\bin\Debug\MyResturant.pdb
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.MainPanel.resources
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.Properties.Resources.resources
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.exe
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.pdb
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.ManagerLogin.resources
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.ReceptionistLogin.resources
+C:\Users\hp\source\repos\MyResturant\MyResturant\obj\Debug\MyResturant.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MyResturant\MyResturant\bin\Debug\Resturant.mdf
+C:\Users\hp\source\repos\MyResturant\MyResturant\bin\Debug\Resturant_log.ldf
